@@ -1,7 +1,6 @@
 <h1>Welcome to my GitHub Profile!</h1>
 <p>I'm Usman, Full-Stack Web Developer from <img  src="https://flagcdn.com/w20/pk.png"  width="20"/> <b>Pakistan</b>. I will be transforming your vision into reality with expertise and excellence. between<b> front-end</b> aesthetics and <b>back-end</b> functionality.
 
-<h3>Things I code with</h3>
 
 <p>
 
